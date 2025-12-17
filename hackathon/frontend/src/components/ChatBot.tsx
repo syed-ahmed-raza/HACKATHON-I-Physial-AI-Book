@@ -59,7 +59,7 @@ const ChatBot: React.FC = () => {
       width: '60px',
       height: '60px',
       borderRadius: '50%',
-      backgroundColor: '#007bff',
+      backgroundColor: '#250069ff',
       color: 'white',
       display: 'flex',
       justifyContent: 'center',
@@ -82,7 +82,7 @@ const ChatBot: React.FC = () => {
       zIndex: 1000,
     },
     header: {
-      backgroundColor: '#007bff',
+      backgroundColor: '#250069ff',
       color: 'white',
       padding: '10px',
       borderTopLeftRadius: '10px',
@@ -102,7 +102,7 @@ const ChatBot: React.FC = () => {
       maxWidth: '80%',
     },
     userMessage: {
-      backgroundColor: '#007bff',
+      backgroundColor: '#250069ff',
       color: 'white',
       alignSelf: 'flex-end',
       marginLeft: 'auto',
@@ -125,7 +125,7 @@ const ChatBot: React.FC = () => {
       marginRight: '10px',
     },
     sendButton: {
-      backgroundColor: '#007bff',
+      backgroundColor: '#250069ff',
       color: 'white',
       border: 'none',
       borderRadius: '20px',
